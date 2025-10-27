@@ -2,7 +2,10 @@
 
 This is the accompanying repository of the paper "ScholarEval: Research Idea Evaluation Grounded in Literature."
 
-## Overview  
+## Overview
+
+[![ScholarEval Demo](https://img.youtube.com/vi/rgLWZkdvUPc/maxresdefault.jpg)](https://www.youtube.com/watch?v=rgLWZkdvUPc)
+
 <img width="1623" height="695" alt="image" src="https://github.com/user-attachments/assets/8530749b-520b-4dc9-b420-9adb11269526" />
 
 
